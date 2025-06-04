@@ -113,20 +113,3 @@ This project is for educational use only and part of the Educase assignment.
 ## 🙌 Author
 
 Built with ❤️ by Aarthi (https://github.com/aarthiofficial)
-
-```
-
----
-
-### 🧩 Tips Before You Submit
-
-- Replace placeholders like:
-  - `https://your-vercel-link.vercel.app`
-  - `https://github.com/yourusername/educase-assignment`
-  - `Your Name`
-- Add screenshots to a `/screenshots` folder if available.
-
----
-
-Let me know if you want a `package.json`, `vite.config.js`, or `.eslintrc` too. I can help you finalize this for perfect submission!
-```
